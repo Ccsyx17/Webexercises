@@ -1,0 +1,27 @@
+p{
+color: red;
+}
+h1,h2{
+font-weight: 600;
+}
+h1{
+font-weight: 200;
+}
+p.cname{
+color: blueviolet;
+}
+.cname{
+color: antiquewhite;
+}
+p #iname{
+color: brown;
+}
+#iname{
+color: pink;
+}
+p span{
+color: black;
+}
+p:first-child{
+color: purple;
+}
