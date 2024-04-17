@@ -15,7 +15,7 @@ h1 {
 h2 {
 	font-size: 1.3em;
 }
-.guarantee {
+#guarantee {
   border-color:        white;
   border-width:        1px;
   border-style:        dashed;
@@ -36,7 +36,9 @@ h2 {
   border-bottom-right-radius:15em ;
   border-top-left-radius: 15em;
   border-bottom-left-radius: 15em;
-border-color: rgb(207, 146, 54);
+border-top: 15em;
+border-bottom: 15em;
+border-color: rgb(115, 47, 124);
 }
 
 .elixirs {
@@ -52,12 +54,16 @@ border-color: rgb(207, 146, 54);
   background-repeat:  repeat-x;
   text-align: center;
   line-height: 1em;
+  float: right;
 }
 h1,h2{
 color: #007e7e;
 }
 h2{
 color: black;
+}
+h3 {
+color: #d12c47;
 }
 div h2{
 color: black;
