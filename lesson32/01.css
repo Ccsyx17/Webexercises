@@ -1,0 +1,28 @@
+.seven{
+  font-size: 40px;
+	font-size: 250%;
+	font-size: 2.9em;
+	font-size: 15 vh;
+  font-weight: bold;
+	font-weight: 80;
+  font-family: verdana, Geneva, 'verdana';
+  color:            #77021ca9;
+}
+.date1{
+  font-size: 8px;
+	font-size: 80%;
+	font-size: 1em;
+	font-size: 5 vh;
+  font-weight: bold;
+	font-weight: 160;
+  color:            #77021ca9;
+}
+.time{
+  font-size: 8px;
+	font-size: 80%;
+	font-size: 1em;
+	font-size: 5 vh;
+  font-weight: bold;
+	font-weight: 160;
+  color:            #77021ca9;
+}
