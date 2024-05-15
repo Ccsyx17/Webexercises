@@ -1,5 +1,5 @@
-.seven{
-width: 20px;
+.seven1,.seven2,.seven3,.seven4,.seven5{
+	width: 20px;
   font-size: 40px;
 	font-size: 250%;
 	font-size: 2.9em;
@@ -7,9 +7,11 @@ width: 20px;
   font-weight: bold;
 	font-weight: 80;
   font-family: verdana, Geneva, 'verdana';
+	height: 40px;
+	display: inline-block; 
   }
 
-.date1,.date2{
+.date1,.date2,.date3,.date4,.date5{
 	width: 20px;
   font-size: 8px;
 	font-size: 80%;
@@ -17,8 +19,10 @@ width: 20px;
 	font-size: 5 vh;
   font-weight: bold;
 	font-weight: 160;
+	height: 40px;
+	display: inline-block;
 }
-.time1,.time2{
+.time1,.time2,.time3,.time4,.time5{
 	width: 20px;
   font-size: 8px;
 	font-size: 80%;
@@ -26,13 +30,8 @@ width: 20px;
 	font-size: 5 vh;
   font-weight: bold;
 	font-weight: 160;
+	height: 30px;
 }
-.date1,.seven,.date2,.time1,.time2{
+.date1,.date2,.date3,.date4,.date5.time1,.time2,.time3,.time4,.time5,.seven1,.seven2,.seven3,.seven4,.seven5{
 	color:            #77021ca9;
 	}
-.content1 {
-  margin-right: 1200px;
-}
-.date1{
-float: left;
-}
