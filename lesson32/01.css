@@ -1,37 +1,64 @@
-.seven1,.seven2,.seven3,.seven4,.seven5{
+.seven1,.seven2,.seven3,.seven4,.seven5,.seven6{
 	width: 20px;
-  font-size: 40px;
-	font-size: 250%;
-	font-size: 2.9em;
-	font-size: 15 vh;
-  font-weight: bold;
-	font-weight: 80;
-  font-family: verdana, Geneva, 'verdana';
-	height: 40px;
+  font-size: 50px;
+	font-weight: 300;
+	height:auto;
+  font-family: 'Open Sans', sans-serif;
+	line-height: 50px;
 	display: inline-block; 
   }
 
-.date1,.date2,.date3,.date4,.date5{
+.date1,.date2,.date3,.date4,.date5,.date6{
 	width: 20px;
-  font-size: 8px;
-	font-size: 80%;
-	font-size: 1em;
-	font-size: 5 vh;
-  font-weight: bold;
-	font-weight: 160;
-	height: 40px;
+  font-size: 18px;
+	font-weight: 300;
+	line-height: 22px;
+	font-family: 'Open Sans', sans-serif;
 	display: inline-block;
 }
-.time1,.time2,.time3,.time4,.time5{
+.time1,.time2,.time3,.time4,.time5,.time6{
 	width: 20px;
-  font-size: 8px;
-	font-size: 80%;
-	font-size: 1em;
-	font-size: 5 vh;
-  font-weight: bold;
-	font-weight: 160;
-	height: 30px;
+  font-size: 18px;
+	font-weight: 300;
+	line-height: 22px;
+	font-family: 'Open Sans', sans-serif;
 }
-.date1,.date2,.date3,.date4,.date5.time1,.time2,.time3,.time4,.time5,.seven1,.seven2,.seven3,.seven4,.seven5{
-	color:            #77021ca9;
+.date1,.date2,.date3,.date4,.date5,.date6,.time2,.time3,.time4,.time5,.time6,.time1,.seven1,.seven2,.seven3,.seven4,.seven5,.seven6{
+	color:            #822433;
 	}
+
+.zong1,.zong2,.zong3,.zong4,.zong5{
+float: left;
+margin-right: 2%;
+}
+
+.content1,.content2,.content3,.content4,.content5,.content6{
+color: #333;
+font-family: 'Open Sans', sans-serif;
+font-size: 14px;
+font-weight: 300;
+height: auto;
+line: height 16px;
+}
+.tou{
+color: rgb(130, 36, 51);
+dispaly:block;
+font-family: "Open Sans", sans-serif;
+font-size: 30px;
+font-weight: 300;
+height: 34px;
+line-height: 34px;
+margin-block-end: 8px;
+margin-block-start: 8px;
+margin-bottom: 8px;
+}
+a{
+text-decoration: none;
+color: #333;
+}
+.first :hover,.second :hover,.third :hover
+,.fourth :hover,.fifth :hover,.sixed :hover
+,.seventh :hover,.eighten :hover,.nineth :hover
+{
+border-bottom: 1px solid #000;
+}
