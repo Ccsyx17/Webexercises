@@ -84,6 +84,7 @@ background-color: #822433;
 height: 80px;
 width: 180px;
 margin-left: 1200px;
+margin-bottom: 50px;
 }
 .baizi{
 font-size: 30px;
@@ -101,9 +102,39 @@ color: #fff;
 font-family: "Open Sans", sans-serif;
 }
 .social{
-color: #822433;
+color: #fff;
 display: block;
 font-family: "Open Sans", sans-serif;
 font-size: 30px;
 font-weight: 300;
+padding-left: 180px;
+padding-top: 8px;
+display: inline-block;
+}
+.dahongkuang{
+border: 1px #822433;
+background-color: #822433;
+height: 550px;
+width: 1550px;
+}
+.zahopiankuang1,.zhaopiankuang2,.zhaopiankuang3,.zhaopiankuang4{
+display: inline-block;
+margin-left: 4px;
+margin-right: 4px;
+}
+
+.baikuang1{
+background-color: #fff;
+height: 350px;
+width: 270px;
+display: block;
+margin-left: 100px;
+margin-left: 180px;
+
+}
+.yuan1 img{
+height: 25px;
+width: 35px;
+padding-top: 15px;
+padding-left: 15px;
 }
