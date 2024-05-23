@@ -20,8 +20,9 @@
 	width: 20px;
   font-size: 18px;
 	font-weight: 300;
-	line-height: 22px;
+	line-height: 5px;
 	font-family: 'Open Sans', sans-serif;
+	margin-top: 30px;
 }
 .date1,.date2,.date3,.date4,.date5,.date6,.time2,
 .time3,.time4,.time5,.time6,.time1,.seven1,.seven2,
@@ -87,7 +88,7 @@ border: 1px #822433;
 background-color: #822433;
 height: 80px;
 width: 180px;
-margin-left: 1200px;
+margin-left: 1130px;
 margin-bottom: 50px;
 }
 
@@ -124,7 +125,7 @@ margin-left: 20px
 .dahongkuang{
 border: 1px #822433;
 background-color: #822433;
-height: 550px;
+height: 600px;
 width: 1550px;
 }
 
@@ -213,3 +214,35 @@ font-size: 11px;
 padding-left: 15px;
 }
 
+.part1,.part3{
+width: 1200px;
+margin-left: auto;
+margin-right: auto;
+}
+
+.two{
+margin-bottom: 20px;
+color: #fff;
+font-size: 18px;
+font-family: 'Open Sans', sans-serif;
+position: relative;
+top: 535px;
+right: 600px;
+}
+
+.z1{
+background-color: #822433;
+height: 170px;
+width: 180px;
+position: relative;
+top: 20px;
+padding-top: 20px;
+padding-bottom: 30px;
+}
+.z1 img{
+width: 150px;
+height: 105px;
+padding-left: 15px;
+padding-top: 10px;
+
+}
