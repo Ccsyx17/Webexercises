@@ -214,7 +214,7 @@ font-size: 11px;
 padding-left: 15px;
 }
 
-.part1,.part3{
+.part1{
 width: 1200px;
 margin-left: auto;
 margin-right: auto;
@@ -230,19 +230,87 @@ top: 535px;
 right: 600px;
 }
 
-.z1{
+.part3 {
+	width: 1200px;
+	margin-left: auto;
+	margin-right: auto;
+	display: flex;
+	float: left;
+	margin: 0px;
+	font-family: inherit;
+  font-weight: 500;
+  text-align: center;
+  color: #fff;
+  text-transform: uppercase;
+  font-size: 17px;
+  line-height: 16px;
+}
+
+
+.z1,.z2,.z3,.z4,.z5,.z6 {
+	display: block;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	float: left;
+}
+
+p {
+	margin: 0px;
+}
+
+.z1word,.z6word {
+	width: 190px;
+}
+
+.z2word,.z3word,.z4word,.z5word {
+	width: 180px;
+}
+
+.z1 img,.z2 img,.z3 img,.z4 img,.z5 img,.z6 img {
+position: relative;
+bottom: 9px;
+width: 170px;
+height: 80%;
+padding-bottom: 13%;
+padding-top: 13%;
+}
+
+.z1 {
 background-color: #822433;
-height: 170px;
-width: 180px;
+height: 215px;
+width: 190px;
 position: relative;
 top: 20px;
-padding-top: 20px;
-padding-bottom: 30px;
+margin: 0px 10px 10px 0px;
 }
-.z1 img{
-width: 150px;
-height: 105px;
-padding-left: 15px;
-padding-top: 10px;
 
+.z2 {
+	background-color: #c54c00;
+	width: 180px;
+	height: 215px;
+}
+
+.z3 {
+	background-color: #822433;
+	width: 180px;
+	height: 215px;
+}
+
+.z4 {
+	background-color: #3e6041;
+	width: 180px;
+	height: 215px;
+}
+
+.z5 {
+	background-color: #c54c00;
+	width: 180px;
+	height: 215px;
+}
+
+.z6 {
+	background-color: #822433;
+	margin: 0px 0px 10px 10px ;
+	width: 190px;
+	height: 215px;
 }
